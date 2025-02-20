@@ -153,6 +153,12 @@ Macro for Euler's number.
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/constants-float64/e`][@stdlib/constants/float64/e]</span><span class="delimiter">: </span><span class="description">euler's number.</span>
+
 </section>
 
 <!-- /.related -->
@@ -183,7 +189,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
@@ -230,6 +236,12 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/constants-float32-e/main/LICENSE
 
 [e]: https://en.wikipedia.org/wiki/E_%28mathematical_constant%29
+
+<!-- <related-links> -->
+
+[@stdlib/constants/float64/e]: https://github.com/stdlib-js/constants-float64-e
+
+<!-- </related-links> -->
 
 </section>
 
