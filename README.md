@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import E from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-e@deno/mod.js';
+import E from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-e@v0.1.1-deno/mod.js';
 ```
 
 #### E
@@ -67,7 +67,7 @@ var bool = ( E === 2.7182817459106445 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import E from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-e@deno/mod.js';
+import E from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-e@v0.1.1-deno/mod.js';
 
 console.log( E );
 // => 2.7182817459106445
