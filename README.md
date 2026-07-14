@@ -29,7 +29,7 @@ limitations under the License.
   <p>To join us in bringing numerical computing to the web, get started by checking us out on <a href="https://github.com/stdlib-js/stdlib">GitHub</a>, and please consider <a href="https://opencollective.com/stdlib">financially supporting stdlib</a>. We greatly appreciate your continued support!</p>
 </details>
 
-# E
+# FLOAT32_E
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
@@ -60,15 +60,15 @@ To view installation and usage instructions specific to each branch build, be su
 ## Usage
 
 ```javascript
-var E = require( '@stdlib/constants-float32-e' );
+var FLOAT32_E = require( '@stdlib/constants-float32-e' );
 ```
 
-#### E
+#### FLOAT32_E
 
 The mathematical constant [_e_][e], also known as Euler's number or Napier's constant. [_e_][e] is the base of the natural logarithm.
 
 ```javascript
-var bool = ( E === 2.7182817459106445 );
+var bool = ( FLOAT32_E === 2.7182817459106445 );
 // returns true
 ```
 
@@ -85,9 +85,9 @@ var bool = ( E === 2.7182817459106445 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-var E = require( '@stdlib/constants-float32-e' );
+var FLOAT32_E = require( '@stdlib/constants-float32-e' );
 
-console.log( E );
+console.log( FLOAT32_E );
 // => 2.7182817459106445
 ```
 
