@@ -70,6 +70,7 @@
     "euler",
     "napier",
     "ieee754",
+    "float",
     "single",
     "precision",
     "floating-point",
